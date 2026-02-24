@@ -25,4 +25,5 @@ if st.button("Prediksi"):
 	st.balloons()
 
 st.divider()
-st.caption("Dibuat Oleh Natasya Destiana Lestari")
+st.caption("Dibuat Oleh Saskia Humaira")
+
